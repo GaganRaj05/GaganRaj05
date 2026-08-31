@@ -176,28 +176,6 @@ Delivered a deterministic-logic system within a **16-day window with zero rework
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GaganRaj05&amp;show_icons=true&amp;count_private=true&amp;theme=default&amp;hide_border=true&amp;title_color=2C3E50&amp;icon_color=34495E&amp;text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganRaj05&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;title_color=2C3E50&amp;text_color=333333" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganRaj05&amp;hide_border=true&amp;theme=default&amp;background=FFFFFF&amp;stroke=2C3E50&amp;ring=34495E&amp;fire=34495E&amp;currStreakLabel=2C3E50" />
-
-<br/>
-
-<!-- Snake animation: generated automatically once the GitHub Action below runs -->
-<img src="https://raw.githubusercontent.com/GaganRaj05/GaganRaj05/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
-<br/>
-
----
-
 ### 📬 Let's Connect
 
 I take on select independent consulting engagements — architecture audits, AI system builds, and backend
