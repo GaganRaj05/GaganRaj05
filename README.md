@@ -1,20 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C3E50,100:34495E&amp;height=200&amp;section=header&amp;text=Gagan%20Raj&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%C2%B7%20Agentic%20AI%20%26%20RAG%20Systems%20%C2%B7%20Backend%20Architecture&amp;descAlignY=58&amp;descSize=17&amp;descColor=D5DBDB&amp;animation=fadeIn" />
+<h1>Gagan Raj</h1>
+<h3>AI Engineer · Agentic AI & RAG Systems · Backend Architecture</h3>
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=2C3E50&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+production-grade+AI+systems+for+1%2C000%2B+real+users;Architecting+Agentic+AI+%26+RAG+pipelines+that+scale;Independent+Consultant+%C2%B7+Upwork+Top+Rated)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2C3E50&center=true&vCenter=true&width=700&lines=Building+production-grade+AI+systems+for+1%2C000%2B+real+users;Architecting+Agentic+AI+%26+RAG+pipelines+that+scale;Independent+Consultant+%C2%B7+Upwork+Top+Rated)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-gaganraj.dev05%40gmail.com-2C3E50?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:gaganraj.dev05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2C3E50?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/gagan-raj-87b6kk39163/)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-2C3E50?style=for-the-badge&amp;logo=upwork&amp;logoColor=white)](https://www.upwork.com/freelancers/~01bb8d7ab059183741)
+[![Email](https://img.shields.io/badge/Email-gaganraj.dev05%40gmail.com-2C3E50?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaganraj.dev05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagan-raj-87b6kk39163/)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-2C3E50?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bb8d7ab059183741)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=GaganRaj05&amp;style=flat-square&amp;color=2c3e50&amp;label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=GaganRaj05&style=flat-square&color=2c3e50&label=Profile+Views" />
 
 </div>
 
@@ -56,7 +57,9 @@ Relevance lifts, latency cuts, throughput gains — measured, not assumed
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2C3E50,100:34495E&amp;height=3" />
+<br/>
+
+---
 
 ### 🛠️ Technical Focus
 
@@ -124,7 +127,9 @@ Relevance lifts, latency cuts, throughput gains — measured, not assumed
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2C3E50,100:34495E&amp;height=3" />
+<br/>
+
+---
 
 ### 💼 Selected Work
 
@@ -167,7 +172,9 @@ Delivered a deterministic-logic system within a **16-day window with zero rework
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2C3E50,100:34495E&amp;height=3" />
+<br/>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -182,16 +189,14 @@ Delivered a deterministic-logic system within a **16-day window with zero rework
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GaganRaj05&amp;theme=minimal&amp;hide_border=true&amp;color=2C3E50&amp;line=34495E&amp;point=2C3E50" width="90%"/>
-
-<br/>
-
 <!-- Snake animation: generated automatically once the GitHub Action below runs -->
 <img src="https://raw.githubusercontent.com/GaganRaj05/GaganRaj05/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2C3E50,100:34495E&amp;height=3" />
+<br/>
+
+---
 
 ### 📬 Let's Connect
 
@@ -206,6 +211,6 @@ scaling work.
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C3E50,100:34495E&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
+<sub>Thanks for stopping by — always open to discussing AI architecture and interesting problems.</sub>
 
 </div>
